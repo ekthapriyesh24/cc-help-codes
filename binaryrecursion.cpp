@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
+//Hey Allah! isse bhi aage hota h kya...
 void rec(string x,int i)
 {
 	if (i==x.length()-1)
